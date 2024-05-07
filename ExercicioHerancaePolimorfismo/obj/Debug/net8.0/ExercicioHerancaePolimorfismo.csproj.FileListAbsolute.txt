@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\bin\Debug\net8.0\ExercicioHerancaePolimorfismo.exe
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\bin\Debug\net8.0\ExercicioHerancaePolimorfismo.deps.json
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\bin\Debug\net8.0\ExercicioHerancaePolimorfismo.runtimeconfig.json
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\bin\Debug\net8.0\ExercicioHerancaePolimorfismo.dll
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\bin\Debug\net8.0\ExercicioHerancaePolimorfismo.pdb
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.AssemblyInfo.cs
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.dll
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\refint\ExercicioHerancaePolimorfismo.dll
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.pdb
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ExercicioHerancaePolimorfismo.genruntimeconfig.cache
+C:\Users\julia\source\repos\ExercicioHerancaePolimorfismo\ExercicioHerancaePolimorfismo\obj\Debug\net8.0\ref\ExercicioHerancaePolimorfismo.dll
